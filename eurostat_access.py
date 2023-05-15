@@ -3,6 +3,7 @@
 # returns specific values based on filtering
 
 import requests
+"test"
 
 gas_prices = "NRG_PC_202"
 consom_gas = "4141902" # Band 2: 20 GJ - 200 GJ
